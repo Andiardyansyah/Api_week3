@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="it.pradita.ac.id.biodata.Koleksi">
+
+    <ImageView
+        android:id="@+id/gb1"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginLeft="30dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/vespa" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/gb1"
+        android:src="@drawable/vespa3" />
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="350dp"
+        android:layout_below="@+id/gb1"
+        android:layout_marginLeft="70dp"
+        android:scaleType="fitXY" />
+</RelativeLayout>

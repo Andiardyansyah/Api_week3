@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="nama"> Nama          : Andi Ardyansyah</string>
+    <string name="lahir"> Tempat Lahir : Tangerang</string>
+    <string name="tanggal"> Tanggal Lahir : 09 Mei 1998</string>
+    <string name="jk"> Jenis Kelamin : Laki - Laki</string>
+    <string name="status"> Status Perkawinan : Belum Kawin </string>
+    <string name="pekerjaan"> Pekerjaan : Mahasiswa </string>
+    <string name="alamat"> Alamat      : Kp.Alastua RT001/004 Semanan Kalideres</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
